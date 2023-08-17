@@ -1,0 +1,12 @@
+<html>
+  <title></title>
+  <head>
+    <body>
+      <center>
+        <h1 style="color:skyblue">Birthday Party</h1>
+        
+        <h2 style="color:red">It's time to party!
+        
+       <h2 style="color:pink">I am officially a teenager now!
+         
+         <h1 style="color:lightgreen">Join us for the fun party!</h1>
